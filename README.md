@@ -1,6 +1,8 @@
 ### Hi there 👋
 <a href="https://profile-counter.glitch.me/Muhsar/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Muhsar/count.svg" /></a>
+<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhsar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsar&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Platform&Tools

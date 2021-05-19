@@ -1,4 +1,7 @@
 ### Hi there 👋
+<h1 align="center"> I'm <span style="font-weight: bold;"> Jubril Musa </span> </h1>
+<h4 align="center"> I am an aspiring Fullstack Developer </h4>
+<hr/>
 <a href="https://profile-counter.glitch.me/Muhsar/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Muhsar/count.svg" /></a>
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhsar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

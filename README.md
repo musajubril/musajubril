@@ -8,7 +8,7 @@
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhsar&theme=dark)](https://git.io/streak-stats)
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhsar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api?username=Muhsar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsar&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 

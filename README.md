@@ -8,7 +8,7 @@
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhsar&theme=dark)](https://git.io/streak-stats)
 <br/>
-[(https://github-readme-stats.vercel.app/api?username=Muhsar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhsar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsar&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,7 +16,7 @@
 [![Windows-10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)]
 [![Ubuntu](https://img.shields.io/ubuntu/v/Ubuntu/Ubuntu%2020.04.1%20LTS%20(Focal%20Fossa)?logo=ubuntu)]
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[(https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)

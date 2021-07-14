@@ -2,9 +2,9 @@
 <h1 align="center"> I'm <span> Jubril Musa </span> </h1>
 <h4 align="center"> I am an aspiring Fullstack Developer </h4>
 <hr/>
-<a href="https://profile-counter.glitch.me/Muhsar/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Muhsar/count.svg" /></a>
-<hr/>
 <img align="center" src="/image03.gif" width="100%" />
+<hr/>
+<a href="https://profile-counter.glitch.me/Muhsar/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Muhsar/count.svg" /></a>
 
 #### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Muhsar&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)

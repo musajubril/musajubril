@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: Dosis;
+    src: url(./Dosis-VariableFont_wght.ttf);
+}
+* {
+    font-family: Dosis, sans-serif;
+}

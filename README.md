@@ -4,19 +4,19 @@
 <hr/>
 <img align="center" src="/image03.gif" width="100%" />
 <hr/>
-<a href="https://profile-counter.glitch.me/Muhsar/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Muhsar/count.svg" /></a>
+<a href="https://profile-counter.glitch.me/musajubril/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/musajubril/count.svg" /></a>
 
 #### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muhsar&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=musajubril&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhsar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=musajubril&theme=dark)](https://git.io/streak-stats)
 
 #### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhsar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musajubril&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats/)
 
 #### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsar&langs_count=10)](https://github.com/anuraghazra/github-readme-stats/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musajubril&langs_count=10)](https://github.com/anuraghazra/github-readme-stats/)
 
 #### Platform&Tools
 [![Windows-10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)]
@@ -29,7 +29,7 @@
 [![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 <!--
-**Muhsar/Muhsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**musajubril/musajubril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

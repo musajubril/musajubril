@@ -14,9 +14,9 @@
 
 #### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musajubril&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musajubril&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musajubril&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<picture>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=musajubril&show_icons=true&theme=radical"
   media="(prefers-color-scheme: radical)"
@@ -26,7 +26,7 @@
   media="(prefers-color-scheme: radical), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=musajubril&show_icons=true" />
-</picture>
+</picture> -->
 
 
 

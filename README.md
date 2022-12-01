@@ -31,7 +31,7 @@
 
 
 #### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musajubril&langs_count=10)](https://github.com/anuraghazra/github-readme-stats/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musajubril&langs_count=10l&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats/)
 
 #### Platform&Tools
 [![Windows-10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)]
